@@ -12,3 +12,5 @@
 - yarn serve
 
 Formater : majuscule + alt + f
+
+- API : yarn add axios
